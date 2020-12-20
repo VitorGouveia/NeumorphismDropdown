@@ -1,8 +1,0 @@
-npm init -y (cria package.json)
-
-npm i express (instala o express)
-
-npm i nodemon (instala o nodemon)
-
-npm i nodemailer
-npm i mysql 
